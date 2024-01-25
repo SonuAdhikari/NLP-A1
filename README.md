@@ -1,1 +1,1 @@
-First assignment of NLP Second Semester. The work is still in progress. Will update the repo after completing the remaining tasks. 
+First assignment of NLP Second Semester. The work is still in progress. Will keep on updating the repo after completing the remaining tasks. Task 2 part 2 and task 3 are incomplete and being done currently.
